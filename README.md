@@ -23,7 +23,7 @@ O projeto de automação de acompanhamento de processos eletrônicos no sistema 
 
 O tempo é um recurso valioso e que precisa ser usado para, em nivel de Diretoria, focar em soluções e inovações que podem ser aplicadas na gestão.
 
-O objetivo da automatização foi de trazer maior produtividade na rotina de trabalho, com o uso da linguagem Pythpn, impactando diretamente no tempo de execução desta tarefa, garantindo assim que o tempo de trabalho seja dispendido em questões estratégicas.
+O objetivo da automatização foi de trazer maior produtividade na rotina de trabalho, com o uso da linguagem Python, impactando diretamente no tempo de execução desta tarefa, garantindo assim que o tempo de trabalho seja dispendido em questões estratégicas.
 
 A disponibilização do projeto e dos scripts é benéfico à comunidade que trabalha com automação e dados. Contudo, pode ser necessário adaptações para aplicação em outras rotinas administrativas similares a do projeto.
 
